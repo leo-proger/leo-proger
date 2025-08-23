@@ -106,8 +106,7 @@
   <li><strong>Other tools:</strong> Docker, Linux basics, Git</li>
 </ul>
 
-<p><strong>Currently</strong><br>
-I am a student and working towards a Junior Backend Developer position with a strong focus on Java and Spring.
-</p>
+<h3>Currently</h3>
+<p>I am a student and working towards a Junior Backend Developer position with a strong focus on Java and Spring.</p>
 
 ###
