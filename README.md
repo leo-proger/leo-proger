@@ -1,13 +1,18 @@
 <br clear="both">
 
-<h2 align="center">Leo Proger welcomes you</h2>
+<h1 align="center">Leo Proger welcomes you</h1>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=leo-proger.leo-proger&"  />
+</div>
 
 ###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=leo-proger&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=true" height="160" alt="languages graph"  />
   <img src="https://github-readme-stats.vercel.app/api?username=leo-proger&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=false&disable_animations=false&theme=github_dark&locale=en&hide_border=true" height="160" alt="stats graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=leo-proger&radius=7&theme=github-dark&area=true&hide_border=true&hide_title=false" height="" alt="activity-graph graph"  />
 </div>
 
 ###
@@ -40,12 +45,6 @@
 
 ###
 
-<br clear="both">
-
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
-###
-
 <div align="left">
   <a href="https://www.youtube.com/@LeoProger" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
@@ -68,5 +67,47 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/leo-proger/leo-proger/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/leo-proger/leo-proger/output/pacman-contribution-graph.svg">
 </picture>
+
+###
+
+<h2>About me</h2>
+<p>I am a backend developer with experience in both Python and Java.</p>
+<p>
+  Currently, I focus on <strong>Java development</strong> (Spring Framework, backend systems)
+  while still using Python occasionally for specific tasks.
+</p>
+
+<h3>Experience &amp; Projects</h3>
+<ul>
+  <li>Developed a simple <a href="https://github.com/leo-proger/TabSorter">IntelliJ IDEA plugin</a></li>
+  <li>Built a <a href="https://github.com/leo-proger/Blog">blog application</a> with Spring + Thymeleaf for training purposes</li>
+  <li>Made <a href="https://github.com/leo-proger/English-notes-converter">Markdown to CSV converter</a> – transforms study notes into a format for flashcard apps</li>
+  <li>Migrated few of my own Python projects to Java:
+    <ul>
+      <li><a href="https://github.com/leo-proger/Sticker-bot-for-Standoff-2-Java-version">Standoff 2 skins parser</a> – detects skins with stickers in Standoff 2 game</li>
+      <li><a href="https://github.com/leo-proger/mp3-editor">Music organizer</a> – processes file names, adds tags, and moves music files</li>
+    </ul>
+  </li>
+  <li>Created <a href="https://github.com/leo-proger/Messenger">a messenger in Django</a> with WebSocket-based chat, unread messages, and Bootstrap UI</li>
+  <li>Wrote multiple <strong>Telegram bots</strong>:
+    <ul>
+      <li><a href="https://github.com/leo-proger/YT-downloader">Video downloader bot</a> (YouTube)</li>
+      <li><a href="https://github.com/leo-proger/GDZ_tg_bot">Homework parser bot</a> (aiogram + aiogram-dialog, Dockerized, hosted, had active users)</li>
+    </ul>
+  </li>
+  <li>Implemented freelance projects (3 paid orders) - lightweight web scrapers</li>
+</ul>
+
+<p><strong>Skills &amp; Tools</strong></p>
+<ul>
+  <li><strong>Languages:</strong> Java (preferred), Python (occasional use)</li>
+  <li><strong>Frameworks:</strong> Spring (Core, MVC, Data JPA), Django, aiogram</li>
+  <li><strong>Databases:</strong> basic ORM experience (PostgreSQL, MySQL)</li>
+  <li><strong>Other tools:</strong> Docker, Linux basics, Git</li>
+</ul>
+
+<p><strong>Currently</strong><br>
+I am a student and working towards a Junior Backend Developer position with a strong focus on Java and Spring.
+</p>
 
 ###
