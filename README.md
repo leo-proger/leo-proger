@@ -98,7 +98,7 @@
   <li>Implemented freelance projects (3 paid orders) - lightweight web scrapers</li>
 </ul>
 
-<p><strong>Skills &amp; Tools</strong></p>
+<h3>Skills &amp; Tools</h3>
 <ul>
   <li><strong>Languages:</strong> Java (preferred), Python (occasional use)</li>
   <li><strong>Frameworks:</strong> Spring (Core, MVC, Data JPA), Django, aiogram</li>
