@@ -72,10 +72,6 @@
 
 <h2>About me</h2>
 <p>I am a backend developer with experience in both Python and Java.</p>
-<p>
-  Currently, I focus on <strong>Java development</strong> (Spring Framework, backend systems)
-  while still using Python occasionally for specific tasks.
-</p>
 
 <h3>Experience &amp; Projects</h3>
 <ul>
@@ -107,6 +103,6 @@
 </ul>
 
 <h3>Currently</h3>
-<p>I am a student and working towards a Junior Backend Developer position with a strong focus on Java and Spring.</p>
+<p>I am a student and working on local projects for university in my GitHub organization.</p>
 
 ###
