@@ -75,7 +75,7 @@
 
 <h3>Experience &amp; Projects</h3>
 <ul>
-  <li>Developed a simple <a href="https://github.com/leo-proger/TabSorter">IntelliJ Platform plugin</a></li>
+  <li>Developed a simple but useful <a href="https://github.com/leo-proger/TabSorter">IntelliJ Platform plugin</a></li>
   <li>Built a <a href="https://github.com/leo-proger/Blog">blog application</a> with Spring + Thymeleaf for training purposes</li>
   <li>Made <a href="https://github.com/leo-proger/English-notes-converter">Markdown to CSV converter</a> – transforms study notes into a format for flashcard apps</li>
   <li>Migrated few of my own Python projects to Java:
