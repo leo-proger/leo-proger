@@ -6,13 +6,13 @@
 
 ####
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=leo-proger.leo-proger&"  />
+<div style="text-align: center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=leo-proger.leo-proger&"   alt="Visitors count"/>
 </div>
 
 ###
 
-<div align="center">
+<div style="text-align: center">
   <a href="https://www.linkedin.com/in/leo-proger/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="45" alt="linkedin logo"  />
   </a>
@@ -49,7 +49,7 @@ Interested? DM me on [Telegram](https://t.me/leo_proger).
     - [Talker](https://github.com/leo-proger/Talker) - find like-minded people by cards
     - [Homework helper](https://github.com/leo-proger/GDZ_tg_bot) - get ready-made homework from gdz.ru
 - Plugins
-    - [Tab sorter](https://github.com/leo-proger/TabSorter) for intellij Idea - organize your work space
+    - [Tab sorter](https://github.com/leo-proger/TabSorter) for IntelliJ IDEA - organize your work space
     - [Home button](https://github.com/leo-proger/obsidian-home-button) for Obsidian - simple but convenience
 - Telegram bots
     - [YT downloader](https://github.com/leo-proger/YT-downloader) - download videos from YouTube
@@ -76,5 +76,3 @@ Also, I have 3 paid orders on freelance.
 ## Currently
 
 I'm a student. Working on startups, projects for university in my GitHub organization.
-
-###
