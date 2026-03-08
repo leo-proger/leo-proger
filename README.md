@@ -37,7 +37,9 @@ Also trying myself in other langs (Go, TypeScript, Swift).
 
 ## Paid Programs
 
-- VK Music Downloader
+- **VK Music Downloader** – download music from VK.
+
+Interested? DM me on [Telegram](https://t.me/leo_proger).
 
 ## Experience & Projects
 
