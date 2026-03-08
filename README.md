@@ -35,6 +35,10 @@ I'm primarily a Backend dev experienced in Python (FastAPI) & Java (Spring MVC) 
 
 Also trying myself in other langs (Go, TypeScript, Swift).
 
+## Paid Programs
+
+- VK Music Downloader
+
 ## Experience & Projects
 
 - Apps with real users
@@ -58,7 +62,7 @@ Also trying myself in other langs (Go, TypeScript, Swift).
 - Other
     - [Translated article](https://github.com/leo-proger/OpenCV-CUDA-installation-in-Russian) about OpenCV installation
 
-Also, I have 3 paid orders.
+Also, I have 3 paid orders on freelance.
 
 ## Skills & Tools
 
