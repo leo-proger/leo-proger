@@ -38,6 +38,7 @@ Also trying myself in other langs (Go, TypeScript, Swift).
 ## Paid Programs
 
 - **VK Music Downloader** – download music from VK.
+- **Yandex Music Downloader** – download music from Yandex Music.
 
 Interested? DM me on [Telegram](https://t.me/leo_proger).
 
