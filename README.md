@@ -39,6 +39,7 @@ Also trying myself in other langs (Go, TypeScript, Swift).
 
 - **VK Music Downloader** – download music from VK.
 - **Yandex Music Downloader** – download music from Yandex Music.
+- **Schedule Sync** – parses your schedule from any website and adds it to your calendar. Custom parser for your platform.
 
 Interested? DM me on [Telegram](https://t.me/leo_proger).
 
