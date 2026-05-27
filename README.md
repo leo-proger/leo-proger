@@ -1,5 +1,5 @@
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
 </div>
 
 <h1 align="center">Leo Proger welcomes you</h1>
@@ -31,49 +31,46 @@
 
 ## About
 
-I'm primarily a Backend dev experienced in Python (FastAPI) & Java (Spring MVC) and striving to Fullstack developing.
+Full-stack engineer with a backend background – started on the server side (Python, Java), now shipping end-to-end.
 
-Also trying myself in other langs (Go, TypeScript, Swift).
+Available for commercial development – **[DM me on Telegram](https://t.me/leo_proger)**.
 
-## Paid Programs
+## Open Source
 
-- **VK Music Downloader** – download music from VK.
-- **Yandex Music Downloader** – download music from Yandex Music.
-- **Schedule Sync** – parses your schedule from any website and adds it to your calendar. Custom parser for your platform.
+- **[firefox-relay-api](https://github.com/leo-proger/firefox-relay-api)** – Python client for Firefox Relay. The only
+  one on PyPI. `pip install firefox-relay-api`
 
-Interested? DM me on [Telegram](https://t.me/leo_proger).
+## Selected Projects
 
-## Experience & Projects
+**Products in use**
 
-- Apps with real users
-    - Telegram bot for university classroom reservation (in my organization)
-    - [Talker](https://github.com/leo-proger/Talker) - find like-minded people by cards
-    - [Homework helper](https://github.com/leo-proger/GDZ_tg_bot) - get ready-made homework from gdz.ru
-- Plugins
-    - [Tab sorter](https://github.com/leo-proger/TabSorter) for IntelliJ IDEA - organize your work space
-    - [Home button](https://github.com/leo-proger/obsidian-home-button) for Obsidian - simple but convenience
-- Telegram bots
-    - [YT downloader](https://github.com/leo-proger/YT-downloader) - download videos from YouTube
-- Useful scripts
-    - [Flashcards maker](https://github.com/leo-proger/English-notes-converter) - increase learning efficiency
-    - Auto buying stickers for Standoff
-      2 ([Python](https://github.com/leo-proger/Auto-buying-stickers-Standoff-2), [Java](https://github.com/leo-proger/Sticker-bot-for-Standoff-2-Java-version))
-    - [Mp3 Editor](https://github.com/leo-proger/mp3-editor) - format names of downloaded songs
-    - [Study scheduler](https://github.com/leo-proger/study-event-creator) - make study events in calendar easily
-- Training projects
-    - [Messenger](https://github.com/leo-proger/Messenger) on Django with WebSockets
-    - [Blog](https://github.com/leo-proger/Blog) on Spring Boot
-- Other
-    - [Translated article](https://github.com/leo-proger/OpenCV-CUDA-installation-in-Russian) about OpenCV installation
+- **Classroom reservation bot** – Telegram bot used inside my university organization
+- **[Talker](https://github.com/leo-proger/Talker)** – card-based app for finding like-minded people
+- **[Homework Helper](https://github.com/leo-proger/GDZ_tg_bot)** – Telegram bot fetching solutions from gdz.ru. Another
+  team built their own system on top of this repo
 
-Also, I have 3 paid orders on freelance.
+**Tools & Plugins**
 
-## Skills & Tools
+- **[TabSorter](https://github.com/leo-proger/TabSorter)** – JetBrains IDE plugin for organizing tabs
+- **[Mp3 Editor](https://github.com/leo-proger/mp3-editor)** – automated metadata cleanup for downloaded tracks
+- **[Flashcard Maker](https://github.com/leo-proger/English-notes-converter)** – converts notes into spaced-repetition
+  cards
 
-- **Languages**: Java, Python
-- **Frameworks**: Spring (Core, MVC, Data JPA), FastAPI, aiogram3
-- **Other**: Docker, Linux basics, Git, CI/CD
+**Notable**
 
-## Currently
+- **[Messenger](https://github.com/leo-proger/Messenger)** – Django + WebSockets. Built solo at 13, before AI assistants
+  existed
+- **[OpenCV with CUDA – Russian translation](https://github.com/leo-proger/OpenCV-CUDA-installation-in-Russian)** –
+  translated installation guide
 
-I'm a student. Working on startups, projects for university in my GitHub organization.
+## Stack
+
+- **Languages**: Python, Java, TypeScript
+- **Backend**: FastAPI, Spring (Core, MVC, Data JPA), aiogram3
+- **Frontend**: React, Tailwind
+- **Infra**: Docker, Linux, Git, CI/CD
+
+## Now
+
+Student. Building products, validating ideas, writing about the process
+on [LinkedIn](https://www.linkedin.com/in/leo-proger/).
